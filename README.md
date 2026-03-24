@@ -17,6 +17,8 @@ These insights are designed to guide:
 * Targeted margin enhancement initiatives.
 * Sustainable, long-term value creation.
 
-[Download Transformed Excel File](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/data/Sales%20Records%20transformed.xlsx),
-[Excel Dashboard](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/Sales%20Records%20(excel).pdf),
-[Download Sales Analysis Presentation](global-sales-performance-analysis/Sales Analysis Presentation.pdf)
+[Download Transformed Excel File](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/data/Sales%20Records%20transformed.xlsx)
+
+[Excel Dashboard](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/Sales%20Records%20(excel).pdf)
+
+[Download Sales Analysis Presentation](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/Sales%20Analysis%20Presentation.pdf)
