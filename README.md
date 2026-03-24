@@ -16,3 +16,4 @@ These insights are designed to guide:
 * Strategic resource allocation decisions.
 * Targeted margin enhancement initiatives.
 * Sustainable, long-term value creation.
+[Download Transformed Excel File] (https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/data/Sales%20Records%20transformed.xlsx)
