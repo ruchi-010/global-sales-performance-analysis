@@ -18,3 +18,4 @@ These insights are designed to guide:
 * Sustainable, long-term value creation.
 
 [Download Transformed Excel File](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/data/Sales%20Records%20transformed.xlsx)
+[Excel Dashboard](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/Sales%20Records%20(excel).pdf)
