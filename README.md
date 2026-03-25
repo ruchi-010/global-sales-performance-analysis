@@ -32,7 +32,7 @@ The source data provided 14 core attributes including Geographic markers (Region
 
 ![Screenshot 2026-03-03 160858](https://github.com/user-attachments/assets/ba453cf0-15ec-461c-a3c4-c033d7b8175c)
 
-### **Data Transformation & Engineering Steps**
+### **Data Transformation & Engineering**
 Before visualization, the following engineering tasks were completed to enhance the dataset's utility:
 1. **Data Type Standardization:** Converted all financial fields to currency and all date fields to a standardized date format to enable accurate time-based calculations.
 2. **Attribute Engineering:**
@@ -48,4 +48,12 @@ To prevent "Garbage In, Garbage Out," a strict DQA was performed on the 500,000 
 
 **Outcome:** The final validated dataset contains **233,472 records**, ensuring that every insight in this report is backed by logically consistent and operationally realistic data.
 
+## **Executive Summary**
 
+- The analysis covers **$287.0B in revenue**, **$84.8B in profit**, and a **34.37% average margin** across **1.08B units sold**. Revenue and profit remained structurally stable from 2010 to 2016, with annual revenue ranging between **$40.67B and $41.61B**.
+
+- Product performance shows clear concentration. **Household** is the top revenue category, while **Clothes** leads in margin at **67.2%**, and **Cosmetics** contributes the most profit. The top three categories account for **55% of total revenue**, indicating a gap between scale and profitability.
+
+- Geographic performance is concentrated in a few regions, with **Sub-Saharan Africa** and **Europe** contributing approximately **$74.4B each**, compared to **North America at $6.1B**. Despite this, margins remain consistent at around **34%**, reflecting standardized pricing and cost control.
+
+- Channel performance is balanced, with Online and Offline sales showing similar volume distribution across categories. The primary strategic opportunity lies in optimizing product mix and improving margin efficiency rather than expanding geography or channels.
