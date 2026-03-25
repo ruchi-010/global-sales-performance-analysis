@@ -81,12 +81,21 @@ This section provides a technical deep-dive into the performance metrics of the 
 
 * **The High-Efficiency Profit Engine (Clothes):** The **Clothes** category is the primary driver of profitability efficiency for the entire organization. While it accounts for a relatively modest **$32.1B (11.2%) of total revenue**, it generates a disproportionate **$21.5B (25.4%) of total profit**. Its **67.2% profit margin** is nearly double the corporate average, making it the most capital-productive asset in the portfolio.
 * **The Capital Intensity Trap (Meat & Office Supplies):** The analysis pinpoints a significant "efficiency leak" in the **Meat** and **Office Supplies** categories. **Meat** requires high capital exposure with a unit price of **$421.89** yet yields a portfolio-low margin of **13.5%**. Similarly, **Office Supplies** drive **20.2% of total revenue ($58B)** but only **13.3% of profit**, indicating that these categories consume significant operational resources for a comparatively low net return.
+
+![Screenshot 2026-03-25 132141](https://github.com/user-attachments/assets/282a65f2-3503-4475-bb84-a3478f168f3f)
+
 * **Cosmetics as the Unit Productivity Benchmark:** On a "per-transaction" basis, **Cosmetics** outperforms all other categories. Every single unit of Cosmetics sold contributes **$173.87 in net profit**, contrasted sharply against the **$57.20** generated per unit of Meat. Prioritizing the "per-unit" productivity of Cosmetics offers a scalable lever for value creation that does not require the massive logistics overhead of the lower-margin, high-volume segments.
 * **Dilution from Low-Value Staple Verticals:** A "low-value anchor" segment exists within the portfolio, consisting of **Fruits, Beverages, and Personal Care**. **Fruits**, for example, contribute a negligible **$2.41 in profit per unit**. While these items may drive customer frequency, they structurally dilute the corporate margin. Strategic intervention is required to determine if these categories are effectively serving as "loss leaders" or if they are misallocated capital that should be pivoted toward mid-tier efficiency leaders like **Cereal (43.1% margin)**.
+
+![Screenshot 2026-03-25 132217](https://github.com/user-attachments/assets/b9f8da89-b449-4e04-8a97-e67293efe3c7)
+
 
 ## 3. Regional Performance Analysis (Capital Productivity)
 
 * **Strategic "Hub-Market" Dependency:** A deep-dive into geographic revenue distribution reveals that the $287B base is anchored by strategic logistics and trade hubs rather than broad consumer populations. The **Maldives ($1.68B)** and **Singapore ($1.67B)** are the top two revenue-contributing countries. This suggests that NovaRetail's revenue durability is currently optimized around high-efficiency, high-traffic trade nodes.
 * **The North American Scalability Gap:** Despite its status as a premier global market, **North America** represents a mere **$5.97B (2.1%) of total revenue**. Given that the region operates at the same **34.4% margin** as the rest of the world, it represents the single largest "growth lever" in the portfolio. Scaling this region to even 10% of total revenue would add over **$20B** to the top line without introducing margin risk.
+
+![Screenshot 2026-03-25 132257](https://github.com/user-attachments/assets/53d0f9b7-220e-4751-9116-ab7c68ad79de)
+
 * **Geographic Diversification as a Risk Hedge:** The portfolio is shielded from country-specific economic shocks through extreme diversification. The **Top 5 Countries** combined contribute only **2.91% of total revenue**. This granular distribution ensures that no single geopolitical event or local market downturn can materially threaten the stability of the **$84.7B total profit** base.
 * **Global Model Portability & Operational Parity:** The data confirms "Operational Parity" across all seven global regions, with **Revenue per Unit** holding steady at **~$266** and **Profit per Unit** at **~$78** globally. This consistency is a powerful indicator of capital productivity; it proves that the business model is perfectly portable and that leadership can reallocate capital to any region with a high degree of confidence in the resulting margin and return.
