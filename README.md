@@ -54,19 +54,25 @@ To prevent "Garbage In, Garbage Out," a strict DQA was performed on the 500,000 
 
 - Product performance shows clear concentration. **Household** is the top revenue category, while **Clothes** leads in margin at **67.2%**, and **Cosmetics** contributes the most profit. The top three categories account for **55% of total revenue**, indicating a gap between scale and profitability.
 
-![Screenshot 2026-03-25 131400](https://github.com/user-attachments/assets/defd5d7e-97cf-4352-a9a5-e44dc5700bfa)
+![Screenshot 2026-03-25 131440](https://github.com/user-attachments/assets/f01d46e0-47d6-424f-8bb1-f272a6cf8c23)
 
 - Geographic performance is concentrated in a few regions, with **Sub-Saharan Africa** and **Europe** contributing approximately **$74.4B each**, compared to **North America at $6.1B**. Despite this, margins remain consistent at around **34%**, reflecting standardized pricing and cost control.
+
+![Screenshot 2026-03-25 131733](https://github.com/user-attachments/assets/44a51011-7ead-415a-bf5a-c0f24bf7b1ad)
 
 - Channel performance is balanced, with Online and Offline sales showing similar volume distribution across categories. The primary strategic opportunity lies in optimizing product mix and improving margin efficiency rather than expanding geography or channels.
 
 # Detailed Insights & Strategic Analysis: Global Sales Performance
 
-This document provides a technical deep-dive into the performance metrics of the NovaRetail dataset, focusing on **Revenue Durability**, **Profitability Efficiency**, and **Capital Productivity**.
+This section provides a technical deep-dive into the performance metrics of the NovaRetail dataset, focusing on **Revenue Durability**, **Profitability Efficiency**, and **Capital Productivity**.
 
 ## 1. Time Intelligence Analysis (Revenue Durability)
 
 * **The Growth Plateau & Stagnation Phase:** While the cumulative revenue of **$287.02B** is substantial, a longitudinal analysis reveals a distinct growth plateau. Year-over-Year (YoY) growth peaked at **1.97% in 2013** before entering a period of marginal contraction with **-1.07% in 2014** and **-1.18% in 2015**. This suggests that the enterprise has transitioned from an expansionary phase to a "mature stability" phase, where protecting the existing base is as critical as seeking new volume.
+
+![Screenshot 2026-03-25 132106](https://github.com/user-attachments/assets/b1d035d8-529f-43f8-b16f-5ef4b245a48e)
+
+
 * **Volume/Price Decoupling Trends:** Analysis of the **1.07B total units sold** across the period shows that sales volume remains remarkably static, averaging approximately **153.5M units per year**. Since volume is nearly constant, the observed revenue fluctuations are not a result of market share expansion but are driven by internal shifts in "basket composition"—specifically the ratio of high-unit-price items (like Household goods at **$668.27**) versus low-unit-price staples.
 * **Exceptional Quarterly Run-Rate Resilience:** The dataset exhibits extreme operational consistency at the quarterly level, with a mean Quarter-over-Quarter (QoQ) variance of just **0.069%**. This level of stability is rare in global retail and indicates a supply chain and demand forecasting system that has effectively "de-risked" the business from seasonal shocks or inventory-driven revenue volatility.
 * **Margin Preservation During Revenue Dips:** A pivotal indicator of durability was observed in **2015**; despite a top-line revenue decline of **$488M** compared to the previous year, total profit remained essentially flat at **$12.02B**. This proves the existence of a flexible cost structure capable of maintaining "bottom-line integrity" even when the high-revenue engines experience temporary softening.
