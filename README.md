@@ -32,7 +32,7 @@ The source data provided 14 core attributes including Geographic markers (Region
 
 ![Screenshot 2026-03-03 160858](https://github.com/user-attachments/assets/ba453cf0-15ec-461c-a3c4-c033d7b8175c)
 
-### **Data Transformation & Engineering**
+### **Data Transformation**
 Before visualization, the following engineering tasks were completed to enhance the dataset's utility:
 1. **Data Type Standardization:** Converted all financial fields to currency and all date fields to a standardized date format to enable accurate time-based calculations.
 2. **Attribute Engineering:**
