@@ -62,7 +62,7 @@ To prevent "Garbage In, Garbage Out," a strict DQA was performed on the 500,000 
 
 - Channel performance is balanced, with Online and Offline sales showing similar volume distribution across categories. The primary strategic opportunity lies in optimizing product mix and improving margin efficiency rather than expanding geography or channels.
 
-# Detailed Insights & Strategic Analysis: Global Sales Performance
+# Insights
 
 This section provides a technical deep-dive into the performance metrics of the NovaRetail dataset, focusing on **Revenue Durability**, **Profitability Efficiency**, and **Capital Productivity**.
 
