@@ -23,7 +23,7 @@ These insights are designed to guide:
 
 [Download Sales Analysis Presentation](https://github.com/ruchi-010/global-sales-performance-analysis/blob/main/Sales%20Analysis%20Presentation.pdf)
 
-## Data Structure and Data Engineering
+## Data Structure and Data Transformation
 
 This project follows a structured data lifecycle, moving from raw transactional logs to a validated analytical model. The following section details the schema structure and the engineering steps taken to ensure the data was "analysis-ready."
 
