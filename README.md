@@ -27,7 +27,7 @@ These insights are designed to guide:
 
 This project follows a structured data lifecycle, moving from raw transactional logs to a validated analytical model. The following section details the schema structure and the engineering steps taken to ensure the data was "analysis-ready."
 
-### **Initial Data Schema**
+### **Data Schema**
 The source data provided 14 core attributes including Geographic markers (Region, Country), Product identifiers (Item Type), Sales Channels (Online, Offline), and five key financial metrics.
 
 ![Screenshot 2026-03-03 160858](https://github.com/user-attachments/assets/ba453cf0-15ec-461c-a3c4-c033d7b8175c)
